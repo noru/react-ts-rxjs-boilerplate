@@ -1,11 +1,7 @@
 # My React Boilerplate
 
 - react
-- react-redux
-- react-router
-- react-i18next
-- babel
-- flow
+- rxjs
 - mocha
 - istanbul
 - enzyme
