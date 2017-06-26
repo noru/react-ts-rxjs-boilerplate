@@ -8,6 +8,7 @@ let alias = {
   js: path.join(__dirname, '../src/js'),
   models: path.join(__dirname, '../src/js/models'),
   components: path.join(__dirname, '../src/js/components'),
+  observables: path.join(__dirname, '../src/js/observables'),
   routes: path.join(__dirname, '../src/js/routes'),
   utils: path.join(__dirname, '../src/js/utils'),
   mocks: path.join(__dirname, '../src/js/mocks'),
